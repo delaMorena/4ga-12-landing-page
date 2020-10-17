@@ -2,31 +2,46 @@ import React from "react";
 
 export function Navbar() {
 	return (
-		<nav class="navbar navbar-dark navbar-expands bg-dark sticky-top">
-			<span class="navbar-brand mb-0 h1">Start Bootstrap</span>
-
-			<ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-				<li class="nav-item active p-2">
-					<a class="nav-link" href="#">
-						Home <span class="sr-only">(current)</span>
-					</a>
-				</li>
-				<li class="nav-item p-2">
-					<a class="nav-link" href="#">
-						About
-					</a>
-				</li>
-				<li class="nav-item p-2">
-					<a class="nav-link" href="#">
-						Services
-					</a>
-				</li>
-				<li class="nav-item p-2">
-					<a class="nav-link" href="#">
-						Contact
-					</a>
-				</li>
-			</ul>
+		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a className="navbar-brand" href="#">
+				Start Bootstrap
+			</a>
+			<button
+				className="navbar-toggler"
+				type="button"
+				data-toggle="collapse"
+				data-target="#navbarNav"
+				aria-controls="navbarNav"
+				aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span className="navbar-toggler-icon" />
+			</button>
+			<div
+				className="collapse navbar-collapse justify-content-end"
+				id="navbarNav">
+				<ul className="navbar-nav">
+					<li className="nav-item active">
+						<a className="nav-link" href="#">
+							Home <span className="sr-only">(current)</span>
+						</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link" href="#">
+							About
+						</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link" href="#">
+							Services
+						</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link" href="#">
+							Contact
+						</a>
+					</li>
+				</ul>
+			</div>
 		</nav>
 	);
 }
