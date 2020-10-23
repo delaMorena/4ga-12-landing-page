@@ -15,7 +15,7 @@ export function Home() {
 			<Jumbotron />
 			<div className="container-fluid px-5">
 				<div className="row">
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card
 							title="Morro Falquí 6A+"
 							imgUrl="https://www.panoramicas360.net/wp-content/uploads/2012/12/croquis-sonjannika.jpg"
@@ -23,7 +23,7 @@ export function Home() {
 							buttonUrl="https://www.panoramicas360.net/sonjannika-170-m-6a-escalada-en-los-acantilados-del-norte-de-alicante/"
 						/>
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card
 							title="Diedro de Hoz de Jaca V+"
 							imgUrl="https://i.ytimg.com/vi/My-tDN57jDk/hqdefault.jpg"
@@ -31,7 +31,7 @@ export function Home() {
 							buttonUrl="https://www.panoramicas360.net/diedro-hoz-de-jaca/"
 						/>
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card
 							title="Forronías"
 							imgUrl="https://www.komandokroketa.org/escalada/forronias-sendero-limite/miniaturas/24-L5-alternativo-travesia.jpg"
@@ -39,7 +39,7 @@ export function Home() {
 							buttonUrl="https://fanaticmountain.com/2019/07/20/croquis-forronias-2019/"
 						/>
 					</div>
-					<div className="col-3">
+					<div className="col-xl-3">
 						<Card
 							title="Artouste"
 							imgUrl="https://www.lugaresdenieve.com/sites/default/files/estaciones/artouste1.jpg"
