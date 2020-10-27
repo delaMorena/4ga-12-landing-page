@@ -43,7 +43,7 @@ export function Home() {
 						<Card
 							title="Artouste"
 							imgUrl="https://www.lugaresdenieve.com/sites/default/files/estaciones/artouste1.jpg"
-							text="Por cambiar un poco de tercio, hablemos de esquí. Como mujer económicamente limitada y que he empezado a esquiar casi con 40 años (midlife crisis maybe...) recomiendo esta estación de esquí. A pocos kilómetros de Formigal, ya en el lado frances de los maravillosos Pirineos, se encuentra esta estación, muy al estilo francés, sin grandes pretensiones, pero bien acondicionada y con precios (y nieve) muy competititivos. Fui un par de veces y la calidad de la nieve era excepcional. Para algo les tenía que servir la inamovible nube francesa...."
+							text="Por cambiar un poco de tercio, hablemos de esquí. A pocos kilómetros de Formigal, en el otro lado de nuestros maravillosos Pirineos, se encuentra esta estación grandes pretensiones, pero bien acondicionada y con precios (y nieve) muy competititivos. Para algo les tenía que servir la inamovible nube francesa...."
 							buttonUrl="https://www.nevasport.com/noticias/art/58333/artouste-se-llena-de-espanoles-gracias-a-su-nueva-politica-de-precios/"
 						/>
 					</div>

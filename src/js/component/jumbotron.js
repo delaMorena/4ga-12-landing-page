@@ -10,7 +10,7 @@ export function Jumbotron() {
 					este ejercicio de 4geeks, así, a parte de motivarme (más
 					aún) me ayuda a entender mejor como funciona React,
 					Javascript. Mi cerebro es tan loco que necesito chinchetas
-					de "realidad" para poder darle sentido a las cosas. Desde
+					de realidad para poder darle sentido a las cosas. Desde
 					luego que me ha ayudado a entender mejor los componentes, el
 					tema de las variables dentro de html, etc. Y de paso, he
 					disfrutano al recordar ciertos momentos de escalada y demás
